@@ -1,2 +1,2 @@
 # lottery
-lottery抽象项目工程
+lottery抽奖项目工程
